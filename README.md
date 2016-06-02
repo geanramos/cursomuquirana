@@ -1,2 +1,2 @@
-# cursomuquirana.github.io
+# https://cursomuquirana.github.io
 Afiliado Muquirana
